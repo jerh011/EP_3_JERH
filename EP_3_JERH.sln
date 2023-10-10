@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EP_3_JERH", "EP_3_JERH.csproj", "{B99D6D35-1B16-4769-9AEA-469979ED683E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B99D6D35-1B16-4769-9AEA-469979ED683E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B99D6D35-1B16-4769-9AEA-469979ED683E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B99D6D35-1B16-4769-9AEA-469979ED683E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B99D6D35-1B16-4769-9AEA-469979ED683E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4E233BA-688B-479D-B25D-FB44F8600BE9}
+	EndGlobalSection
+EndGlobal
